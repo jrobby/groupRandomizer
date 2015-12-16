@@ -1,0 +1,12 @@
+
+/*The change button should change the background-color of the container to red. 
+The default or 'normal' state of the background-color should be yellow. Clicking 
+the button a second time should change it back to yellow, 3rd time red, 4th time yellow, etc. */
+
+.normal {
+	background-color: yellow;
+}
+
+.active {
+	background-color: red;
+}
